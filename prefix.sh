@@ -2,6 +2,8 @@
 #
 # Simple script for setting table prefixes in SQL-dump
 
+unset LANG
+
 if [ $# != 2 ]; then
   cat >&2 << EOH
 This is Drupal database prefixer.
