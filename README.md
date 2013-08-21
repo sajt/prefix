@@ -1,4 +1,8 @@
-prefix
+Prefix database dump
 ======
 
-Prefix script
+Prefix tables in the database dump
+
+This is a shell script sed needed for it.
+
+
